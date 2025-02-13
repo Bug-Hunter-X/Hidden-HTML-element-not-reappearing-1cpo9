@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked HTML bug.  An element's visibility is toggled, but the code lacks the functionality to restore its visibility.  The `bug.html` file showcases the issue, while `bugSolution.html` provides the corrected version.
